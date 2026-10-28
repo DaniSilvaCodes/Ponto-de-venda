@@ -1,10 +1,1 @@
------- HISTORICO DE COMPRAS ------
-Valor do item [1]: R$ 100.00
-Valor do item [2]: R$ 80.00
-Valor do item [3]: R$ 144.00
-Valor do item [4]: R$ 34.00
 
-Quantidade de compras: 4
-Total bruto: R$ 434.00
-Total de descontos: R$ 76.00
-Valor final: R$ 358.00
